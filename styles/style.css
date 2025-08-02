@@ -107,11 +107,12 @@ button[type="submit"]:hover {
 
 .four .text-box {
   border: 2px solid #ccc;
-  border-radius: 20px;
-  margin: 0 auto;
+  border-radius: 20px; 
+  margin: -100px auto 0 auto;
   padding: 10px;
   position: relative;
   width: 600px;
+  font-size: 11px;
 }
 
 .text-box p {
